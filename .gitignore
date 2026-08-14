@@ -1,0 +1,8 @@
+# Reference material - kept locally, too large or internal for the repo
+*.pptx
+*.xlsx
+Specifications fridges/
+
+# OS junk
+.DS_Store
+Thumbs.db
